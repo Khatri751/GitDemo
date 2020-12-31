@@ -15,6 +15,11 @@ public class RestAPITest {
 	{
 		System.out.println("GetDemo Develop");
 	}
+	@Test
+	public void GitStuffDevelop()
+	{
+		System.out.println("GitStuff Develop");
+	}
 	
 	@Test
 	public void RestAPITest2()
