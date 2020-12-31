@@ -11,6 +11,9 @@ public class AppiumTest {
 		System.out.println("Changes by GitDemo Y");
 		System.out.println("Changes by GitDemo Y");
 		System.out.println("Changes by GitDemo Y");
+		
+		System.out.println("Changes by GitStuff X");
+		System.out.println("Changes by GitStuff X");
 	}
 	
 	@Test
