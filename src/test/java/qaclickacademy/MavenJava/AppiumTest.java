@@ -15,7 +15,17 @@ public class AppiumTest {
 		System.out.println("Changes by GitStuff X");
 		System.out.println("Changes by GitStuff X");
 	}
-	
+	@Test
+	public void AppiumTest4()
+	{
+		
+		//Changes by Architect in develop branch
+		System.out.println("Appium Test4");
+		System.out.println("Changes by GitDemo Develop");
+		System.out.println("Changes by GitDemo Develop");
+		System.out.println("Changes by GitDemo Develop");
+		System.out.println("Changes by GitDemo Develop");
+	}
 	@Test
 	public void AppiumTest2()
 	{
