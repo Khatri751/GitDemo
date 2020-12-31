@@ -8,6 +8,9 @@ public class AppiumTest {
 	public void AppiumTest1()
 	{
 		System.out.println("Appium Test1");
+		System.out.println("Changes by GitDemo Y");
+		System.out.println("Changes by GitDemo Y");
+		System.out.println("Changes by GitDemo Y");
 	}
 	
 	@Test
