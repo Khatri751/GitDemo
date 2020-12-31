@@ -23,8 +23,8 @@ public class AppiumTest {
 		System.out.println("Appium Test4");
 		System.out.println("Changes by GitDemo Develop");
 		System.out.println("Changes by GitDemo Develop");
-		System.out.println("Changes by GitDemo Develop");
-		System.out.println("Changes by GitDemo Develop");
+		System.out.println("Changes by GitStuff Develop");
+		System.out.println("Changes by GitStuff Develop");
 	}
 	@Test
 	public void AppiumTest2()
